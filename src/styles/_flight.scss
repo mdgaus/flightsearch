@@ -1,0 +1,105 @@
+.search-engine {
+  margin-top: 4rem;
+}
+.main-section {
+  min-width: 62.5rem;
+  border: 1px solid #000000;
+  padding: 0;
+}
+.top-heading {
+  padding: 1.5rem;
+  border: 1px solid #000000;
+}
+.top-heading h2 {
+  margin: 0;
+}
+.one-way, .return {
+  cursor: pointer;
+  padding: 0 1rem;
+  border: 1px solid #cccccc;
+  border-radius: 3rem;
+}
+.search-form {
+  border: 1px solid #cccccc;
+}
+.flight-details-box {
+  min-width: 38rem;
+  height: 12rem;
+  padding: .5rem;
+  margin: 1rem;
+  display: flex;
+  border: 2px solid #cccccc;
+}
+.flight-details-box h3 {
+  margin: 0;
+}
+.flight-name {
+  font-size: 1rem;
+}
+.right-section {
+  min-width: 40rem;
+  border: 1px solid #000000;
+}
+.search-button {
+  width: 12rem;
+  margin-top: 1rem;
+}
+.no-flight-available {
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 2rem;
+}
+.display-flex {
+  display: flex;
+}
+.color-red {
+  color: red;
+}
+
+.to-search {
+  margin: 0 1rem;
+  text-align: center;
+  padding: 1rem;
+}
+.result-heading-box {
+  height: 6rem;
+  padding: 2rem 1rem;
+  border-bottom: 1px solid #000000;
+}
+.result-heading {
+  margin: 0;
+  float: left;
+}
+.depart-in-heading-box {
+  float: right;
+}
+.item-width {
+  width: 36%;
+  min-width: 13rem;
+}
+.booking-width {
+  width: 27%;
+  min-width: 10rem;
+}
+.booking-box {
+  height: 6.5rem;
+  margin-bottom: .5rem;
+  border: 2px solid #cccccc;
+}
+.booking-flight-button {
+  padding-left: 0;
+  padding-right: 0;
+}
+.refine-flight-search {
+  height: 13rem;
+  border: 1px solid #cccccc;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  padding: 1rem
+}
+.min-range {
+  float: left;
+}
+.max-range {
+  float: right;
+}
